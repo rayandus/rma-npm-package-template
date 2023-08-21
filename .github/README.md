@@ -44,10 +44,6 @@ A package template for building your npm packages/libraries with the latest depe
    > You can limit the output formats in `rollup.config.js`
 
 1. In the same terminal and directory, login to your npm account. Then, publish
-   
-   ```bash
-   yarn build
-   ```
 
    ```bash
    npm version <new version>
